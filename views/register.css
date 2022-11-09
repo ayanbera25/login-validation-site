@@ -1,0 +1,13 @@
+ul{
+    list-style: none;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+    font-size:x-large;
+    background-color: rgb(143, 140, 136);
+   
+}
+nav li a{
+    color: white;
+    text-decoration: none;
+}
